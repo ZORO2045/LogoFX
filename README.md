@@ -19,7 +19,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/zoro2045/LogoFX.git
+    git clone https://github.com/ZORO2045/LogoFX.git
     cd LogoFX
     ```
 
