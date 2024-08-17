@@ -34,3 +34,18 @@ To run the tool, navigate to the project directory and execute the script:
 
 ```bash
 python logofx.py
+```
+
+## Steps
+
+1. **Enter Your Name:**  
+   You will be prompted to enter the name you want to generate logos for.
+
+2. **Enter Output File Name:**  
+   Enter the name of the file where the logos will be saved (e.g., `Logo.txt`).
+
+3. **View the Logos:**  
+   The logos will be generated and displayed with different fonts on the terminal. They will also be saved to the specified file.
+
+4. **Create More Logos (Optional):**  
+   After generating a logo, you will be asked if you'd like to create another one. Enter `y` to create more, or `n` to exit.
