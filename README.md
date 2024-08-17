@@ -1,4 +1,5 @@
 # LogoFX
+![LogoFX](banner.png)
 
 LogoFX is a simple command-line tool designed to generate logos using various fonts and save them to a file. It uses the `art` and `colorama` Python libraries to create and display text-based logos in different styles.
 
