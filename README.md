@@ -49,3 +49,7 @@ python logofx.py
 
 4. **Create More Logos (Optional):**  
    After generating a logo, you will be asked if you'd like to create another one. Enter `y` to create more, or `n` to exit.
+
+## Creator
+
+This project was created by: [ፚ Ꭷ Ꮢ Ꭷ ❥](https://t.me/ZORO2045).
