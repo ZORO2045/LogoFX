@@ -2,6 +2,8 @@
 
 ![LogoFX](banner.png)
 
+[![Python](https://img.shields.io/badge/Python-3.6+-blue?style=flat-square&logo=python)](https://www.python.org/)
+
 ## Description 📝
 
 LogoFX is a Python script that generates text logos using a variety of fonts and saves them to a file. It leverages the `art` library to create visually appealing text art and `colorama` to add color to the output. This script is designed to be simple and user-friendly, allowing you to create logos quickly for various purposes.
